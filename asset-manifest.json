@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/DudaYura/goit-react-hw-01-components/static/js/main.08112b58.js",
-    "index.html": "/DudaYura/goit-react-hw-01-components/index.html",
-    "main.08112b58.js.map": "/DudaYura/goit-react-hw-01-components/static/js/main.08112b58.js.map"
+    "main.js": "/goit-react-hw-01-components/static/js/main.08112b58.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.08112b58.js.map": "/goit-react-hw-01-components/static/js/main.08112b58.js.map"
   },
   "entrypoints": [
     "static/js/main.08112b58.js"
